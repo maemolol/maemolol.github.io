@@ -1,0 +1,4 @@
+baseURL = 'https://maemolol.github.io'
+languageCode = 'en-gb'
+title = 'test'
+theme = 'terminal'
