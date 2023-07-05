@@ -1,4 +1,5 @@
 baseURL = 'https://maemolol.github.io'
 languageCode = 'en-gb'
-title = 'test'
+title = "maemo's site"
 theme = 'terminal'
+
